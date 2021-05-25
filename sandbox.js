@@ -1,4 +1,4 @@
-var name = 'Caia';
+var name = 'CaiaC';
 console.log(name);
 var inputs = document.querySelectorAll('input');
 console.log(inputs);
